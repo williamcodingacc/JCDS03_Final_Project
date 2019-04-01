@@ -1,0 +1,202 @@
+{
+    "0": {
+        "2013": 965.2,
+        "2014": 911.4,
+        "2015": 534.3,
+        "2016": 491.2,
+        "2017": 469.3,
+        "District Code": 1,
+        "District Name": "Ciutat Vella",
+        "Gender": "Female"
+    },
+    "1": {
+        "2013": 1352.4,
+        "2014": 1246.9,
+        "2015": 706.7,
+        "2016": 637.1,
+        "2017": 583.8,
+        "District Code": 1,
+        "District Name": "Ciutat Vella",
+        "Gender": "Male"
+    },
+    "2": {
+        "2013": 1329,
+        "2014": 1226.2,
+        "2015": 694.7,
+        "2016": 627.8,
+        "2017": 583.7,
+        "District Code": 2,
+        "District Name": "Eixample",
+        "Gender": "Female"
+    },
+    "3": {
+        "2013": 1242.2,
+        "2014": 1132.6,
+        "2015": 628,
+        "2016": 549.7,
+        "2017": 501.8,
+        "District Code": 2,
+        "District Name": "Eixample",
+        "Gender": "Male"
+    },
+    "4": {
+        "2013": 815.6,
+        "2014": 790.7,
+        "2015": 456.9,
+        "2016": 416.1,
+        "2017": 385.9,
+        "District Code": 3,
+        "District Name": "Sants-Montjuïc",
+        "Gender": "Female"
+    },
+    "5": {
+        "2013": 830.9,
+        "2014": 779.6,
+        "2015": 428.4,
+        "2016": 369,
+        "2017": 327.9,
+        "District Code": 3,
+        "District Name": "Sants-Montjuïc",
+        "Gender": "Male"
+    },
+    "6": {
+        "2013": 774.1,
+        "2014": 732.6,
+        "2015": 429.3,
+        "2016": 387.1,
+        "2017": 351.3,
+        "District Code": 4,
+        "District Name": "Les Corts",
+        "Gender": "Female"
+    },
+    "7": {
+        "2013": 684.4,
+        "2014": 644.4,
+        "2015": 361.2,
+        "2016": 313.1,
+        "2017": 277.4,
+        "District Code": 4,
+        "District Name": "Les Corts",
+        "Gender": "Male"
+    },
+    "8": {
+        "2013": 495.5,
+        "2014": 449.2,
+        "2015": 251.3,
+        "2016": 226.3,
+        "2017": 205.7,
+        "District Code": 5,
+        "District Name": "Sarrià-Sant Gervasi",
+        "Gender": "Female"
+    },
+    "9": {
+        "2013": 411.1,
+        "2014": 375.3,
+        "2015": 205.3,
+        "2016": 182.3,
+        "2017": 167.2,
+        "District Code": 5,
+        "District Name": "Sarrià-Sant Gervasi",
+        "Gender": "Male"
+    },
+    "10": {
+        "2013": 775.3,
+        "2014": 712.2,
+        "2015": 406.4,
+        "2016": 368.1,
+        "2017": 346.2,
+        "District Code": 6,
+        "District Name": "Gràcia",
+        "Gender": "Female"
+    },
+    "11": {
+        "2013": 710.4,
+        "2014": 642.8,
+        "2015": 356.7,
+        "2016": 311.2,
+        "2017": 276.8,
+        "District Code": 6,
+        "District Name": "Gràcia",
+        "Gender": "Male"
+    },
+    "12": {
+        "2013": 552.9,
+        "2014": 521.6,
+        "2015": 297,
+        "2016": 273.7,
+        "2017": 257,
+        "District Code": 7,
+        "District Name": "Horta-Guinardó",
+        "Gender": "Female"
+    },
+    "13": {
+        "2013": 548.7,
+        "2014": 505.2,
+        "2015": 271.8,
+        "2016": 234.3,
+        "2017": 207.5,
+        "District Code": 7,
+        "District Name": "Horta-Guinardó",
+        "Gender": "Male"
+    },
+    "14": {
+        "2013": 533.9,
+        "2014": 512.8,
+        "2015": 297.8,
+        "2016": 276.5,
+        "2017": 263.9,
+        "District Code": 8,
+        "District Name": "Nou Barris",
+        "Gender": "Female"
+    },
+    "15": {
+        "2013": 604.8,
+        "2014": 561.2,
+        "2015": 296.5,
+        "2016": 253.5,
+        "2017": 221.9,
+        "District Code": 8,
+        "District Name": "Nou Barris",
+        "Gender": "Male"
+    },
+    "16": {
+        "2013": 813.8,
+        "2014": 789.8,
+        "2015": 456.5,
+        "2016": 412.4,
+        "2017": 383,
+        "District Code": 9,
+        "District Name": "Sant Andreu",
+        "Gender": "Female"
+    },
+    "17": {
+        "2013": 790.8,
+        "2014": 717.8,
+        "2015": 399.2,
+        "2016": 340.4,
+        "2017": 295.3,
+        "District Code": 9,
+        "District Name": "Sant Andreu",
+        "Gender": "Male"
+    },
+    "18": {
+        "2013": 879.4,
+        "2014": 837.7,
+        "2015": 473.8,
+        "2016": 435.9,
+        "2017": 408.8,
+        "District Code": 10,
+        "District Name": "Sant Martí",
+        "Gender": "Female"
+    },
+    "19": {
+        "2013": 887,
+        "2014": 807.4,
+        "2015": 444.7,
+        "2016": 383.3,
+        "2017": 347.5,
+        "District Code": 10,
+        "District Name": "Sant Martí",
+        "Gender": "Male"
+    }
+}

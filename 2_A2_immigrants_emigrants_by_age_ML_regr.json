@@ -1,0 +1,296 @@
+{
+    "0": {
+        "2015": 10,
+        "2016": 6,
+        "2017": 4,
+        "Age": "Range >=100",
+        "Transmigration Type": "Immigrants"
+    },
+    "1": {
+        "2015": 17,
+        "2016": 8,
+        "2017": 9,
+        "Age": "Range >=100",
+        "Transmigration Type": "Emigrants"
+    },
+    "2": {
+        "2015": 55,
+        "2016": 46,
+        "2017": 55,
+        "Age": "Range 95-99",
+        "Transmigration Type": "Immigrants"
+    },
+    "3": {
+        "2015": 126,
+        "2016": 98,
+        "2017": 131,
+        "Age": "Range 95-99",
+        "Transmigration Type": "Emigrants"
+    },
+    "4": {
+        "2015": 228,
+        "2016": 177,
+        "2017": 219,
+        "Age": "Range 90-94",
+        "Transmigration Type": "Immigrants"
+    },
+    "5": {
+        "2015": 519,
+        "2016": 454,
+        "2017": 424,
+        "Age": "Range 90-94",
+        "Transmigration Type": "Emigrants"
+    },
+    "6": {
+        "2015": 489,
+        "2016": 367,
+        "2017": 393,
+        "Age": "Range 85-89",
+        "Transmigration Type": "Immigrants"
+    },
+    "7": {
+        "2015": 865,
+        "2016": 817,
+        "2017": 756,
+        "Age": "Range 85-89",
+        "Transmigration Type": "Emigrants"
+    },
+    "8": {
+        "2015": 581,
+        "2016": 489,
+        "2017": 544,
+        "Age": "Range 80-84",
+        "Transmigration Type": "Immigrants"
+    },
+    "9": {
+        "2015": 899,
+        "2016": 796,
+        "2017": 761,
+        "Age": "Range 80-84",
+        "Transmigration Type": "Emigrants"
+    },
+    "10": {
+        "2015": 609,
+        "2016": 599,
+        "2017": 596,
+        "Age": "Range 75-79",
+        "Transmigration Type": "Immigrants"
+    },
+    "11": {
+        "2015": 755,
+        "2016": 695,
+        "2017": 702,
+        "Age": "Range 75-79",
+        "Transmigration Type": "Emigrants"
+    },
+    "12": {
+        "2015": 925,
+        "2016": 814,
+        "2017": 939,
+        "Age": "Range 70-74",
+        "Transmigration Type": "Immigrants"
+    },
+    "13": {
+        "2015": 921,
+        "2016": 898,
+        "2017": 1072,
+        "Age": "Range 70-74",
+        "Transmigration Type": "Emigrants"
+    },
+    "14": {
+        "2015": 1385,
+        "2016": 1271,
+        "2017": 1424,
+        "Age": "Range 65-69",
+        "Transmigration Type": "Immigrants"
+    },
+    "15": {
+        "2015": 1453,
+        "2016": 1395,
+        "2017": 1494,
+        "Age": "Range 65-69",
+        "Transmigration Type": "Emigrants"
+    },
+    "16": {
+        "2015": 1833,
+        "2016": 1613,
+        "2017": 1948,
+        "Age": "Range 60-64",
+        "Transmigration Type": "Immigrants"
+    },
+    "17": {
+        "2015": 1581,
+        "2016": 1525,
+        "2017": 1648,
+        "Age": "Range 60-64",
+        "Transmigration Type": "Emigrants"
+    },
+    "18": {
+        "2015": 2499,
+        "2016": 2187,
+        "2017": 2454,
+        "Age": "Range 55-59",
+        "Transmigration Type": "Immigrants"
+    },
+    "19": {
+        "2015": 1817,
+        "2016": 1871,
+        "2017": 1898,
+        "Age": "Range 55-59",
+        "Transmigration Type": "Emigrants"
+    },
+    "20": {
+        "2015": 3481,
+        "2016": 2998,
+        "2017": 3516,
+        "Age": "Range 50-54",
+        "Transmigration Type": "Immigrants"
+    },
+    "21": {
+        "2015": 2555,
+        "2016": 2343,
+        "2017": 2619,
+        "Age": "Range 50-54",
+        "Transmigration Type": "Emigrants"
+    },
+    "22": {
+        "2015": 4754,
+        "2016": 4026,
+        "2017": 4565,
+        "Age": "Range 45-49",
+        "Transmigration Type": "Immigrants"
+    },
+    "23": {
+        "2015": 3393,
+        "2016": 3284,
+        "2017": 3314,
+        "Age": "Range 45-49",
+        "Transmigration Type": "Emigrants"
+    },
+    "24": {
+        "2015": 6895,
+        "2016": 6034,
+        "2017": 6846,
+        "Age": "Range 40-44",
+        "Transmigration Type": "Immigrants"
+    },
+    "25": {
+        "2015": 5424,
+        "2016": 4862,
+        "2017": 5041,
+        "Age": "Range 40-44",
+        "Transmigration Type": "Emigrants"
+    },
+    "26": {
+        "2015": 10290,
+        "2016": 9237,
+        "2017": 10265,
+        "Age": "Range 35-39",
+        "Transmigration Type": "Immigrants"
+    },
+    "27": {
+        "2015": 7554,
+        "2016": 6618,
+        "2017": 6839,
+        "Age": "Range 35-39",
+        "Transmigration Type": "Emigrants"
+    },
+    "28": {
+        "2015": 14531,
+        "2016": 13504,
+        "2017": 15602,
+        "Age": "Range 30-34",
+        "Transmigration Type": "Immigrants"
+    },
+    "29": {
+        "2015": 8412,
+        "2016": 7585,
+        "2017": 7757,
+        "Age": "Range 30-34",
+        "Transmigration Type": "Emigrants"
+    },
+    "30": {
+        "2015": 17618,
+        "2016": 17672,
+        "2017": 21319,
+        "Age": "Range 25-29",
+        "Transmigration Type": "Immigrants"
+    },
+    "31": {
+        "2015": 6531,
+        "2016": 6225,
+        "2017": 6619,
+        "Age": "Range 25-29",
+        "Transmigration Type": "Emigrants"
+    },
+    "32": {
+        "2015": 10263,
+        "2016": 10906,
+        "2017": 12911,
+        "Age": "Range 20-24",
+        "Transmigration Type": "Immigrants"
+    },
+    "33": {
+        "2015": 3228,
+        "2016": 3168,
+        "2017": 3422,
+        "Age": "Range 20-24",
+        "Transmigration Type": "Emigrants"
+    },
+    "34": {
+        "2015": 3664,
+        "2016": 4145,
+        "2017": 4545,
+        "Age": "Range 15-19",
+        "Transmigration Type": "Immigrants"
+    },
+    "35": {
+        "2015": 1608,
+        "2016": 1587,
+        "2017": 1710,
+        "Age": "Range 15-19",
+        "Transmigration Type": "Emigrants"
+    },
+    "36": {
+        "2015": 2590,
+        "2016": 2655,
+        "2017": 2630,
+        "Age": "Range 10-14",
+        "Transmigration Type": "Immigrants"
+    },
+    "37": {
+        "2015": 1513,
+        "2016": 1434,
+        "2017": 1480,
+        "Age": "Range 10-14",
+        "Transmigration Type": "Emigrants"
+    },
+    "38": {
+        "2015": 2723,
+        "2016": 2651,
+        "2017": 2684,
+        "Age": "Range 05-09",
+        "Transmigration Type": "Immigrants"
+    },
+    "39": {
+        "2015": 2108,
+        "2016": 1827,
+        "2017": 1845,
+        "Age": "Range 05-09",
+        "Transmigration Type": "Emigrants"
+    },
+    "40": {
+        "2015": 3559,
+        "2016": 3775,
+        "2017": 3868,
+        "Age": "Range 00-04",
+        "Transmigration Type": "Immigrants"
+    },
+    "41": {
+        "2015": 2830,
+        "2016": 2784,
+        "2017": 3111,
+        "Age": "Range 00-04",
+        "Transmigration Type": "Emigrants"
+    }
+}
