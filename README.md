@@ -1,9 +1,16 @@
 # JCDS03_Final_Project
-JCDS03_Final_Project - William
 
-Expatriat Living in the City of Barcelona
+Expatriat Living in the City of Barcelona - William
 
-Brief economic study for Expatriats moving/living in Barcelona, three part of Analysis is done:
+Mirror: https://github.com/williamcodingacc/JCDS03_Project
+# ======================================
+Project Status:
+
+Phase A Done,
+
+Phase B 1 Done, more coming
+# ======================================
+Brief economic overview for Expatriats moving/living in Barcelona, three part of Analysis is done:
 
 A1. Prediction of Immigration by Nationality and Region/sub-continent
 
@@ -48,7 +55,21 @@ A1_2_machine_learning.py, resulting csv, PNG:
 
 
 ![](A1_2_Immigration_Data.png)
+![](A1_2_Immigration_Data_Report.png)
+# ======================================
+B1. Prediction of Immigration by Nationality from Each Region/sub-continent
+B1_1_data_transform_Labelling.py, resulting CSV:
 
+1_B1_immigrants_by_nationality_Labeled.csv
+
+B1_2_plot_with_ML_region_national.py, Projecting PNG Plot:
+![](B1_2_2_Immigration_Data_ML_Spain.png)
+![](B1_2_2_Immigration_Data_ML_West_Europe.png)
+![](B1_2_2_Immigration_Data_ML_East_Europe.png)
+![](B1_2_2_Immigration_Data_ML_Latin_America.png)
+![](B1_2_2_Immigration_Data_ML_Anglofone.png)
+![](B1_2_2_Immigration_Data_ML_Asia_Pacific.png)
+![](B1_2_2_Immigration_Data_ML_Africa.png)
 # ======================================
 A2. Immigration vs Emigration by Age Range
 
@@ -81,7 +102,7 @@ A2_3_machine_learning.py, resulting csv:
 A2_4_barplotting_with_ML.py, resulting PNG:
 
 ![](A2_4_Barplot_with_ML.png)
-
+![](A2_4_Barplot_with_ML_Report.png)
 # ======================================
 A3. Prediction of Unemployment by District and Gender
 
@@ -94,3 +115,13 @@ A3_2_machine_learning.py, resulting csv, PNG:
 2_A3_unemployment_by_district_regr.csv
 
 ![](A3_2_Unemployment_Data.png)
+![](A3_2_Unemployment_Data_Report.png)
+# ======================================
+Notes:
+
+CSV   : (immutable) used as Major Medium for Processing
+
+EXCEL : (mutable)   used for Reporting, changeable and modifiable
+
+JSON  : (immutable) used as Cross-platform Medium
+# ======================================
