@@ -1,8 +1,9 @@
 # JCDS03_Final_Project
 JCDS03_Final_Project - William
-Expatrait Living in the City of Barcelona
 
-Opportunity Analysis for Expatriats living in Barcelona, three part of Analysis is done:
+Expatriat Living in the City of Barcelona
+
+Brief economic study for Expatriats moving/living in Barcelona, three part of Analysis is done:
 
 A1. Prediction of Immigration by Nationality and Region/sub-continent
 
