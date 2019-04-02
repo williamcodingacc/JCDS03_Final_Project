@@ -9,9 +9,11 @@ A2. Immigration vs Emigration by Age Range
 A3. Prediction of Unemployment by District and Gender
 
 Data Source:
-\n A1: https://opendata-ajuntament.barcelona.cat/data/en/dataset/est-demo-immigrants-nacionalitat
-\n A2: https://opendata-ajuntament.barcelona.cat/data/en/dataset/est-demo-immigrants-sexe
-\n A3: https://opendata-ajuntament.barcelona.cat/data/en/dataset/est-atur-sexe
+A1: https://opendata-ajuntament.barcelona.cat/data/en/dataset/est-demo-immigrants-nacionalitat
+
+A2: https://opendata-ajuntament.barcelona.cat/data/en/dataset/est-demo-immigrants-sexe
+
+A3: https://opendata-ajuntament.barcelona.cat/data/en/dataset/est-atur-sexe
 
 Original Datasets:
 0_A1_immigrants_by_nationality.csv
