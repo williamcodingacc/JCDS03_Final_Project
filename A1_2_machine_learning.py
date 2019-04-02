@@ -74,31 +74,54 @@ y_concat = np.transpose(df_concat)
 
 # Plotting
 
-plt.figure('A1_2_Immigration Data')
+# plt.figure('A1_2_Immigration_Data')
+# plt.style.use('ggplot')
+
+# plt.subplot(121)
+# plt.plot(
+# 	X,
+# 	y,
+# 	marker='o',
+# 	markersize=4,
+# 	linewidth=0.75,
+# )
+# plt.title('Immigrants by Region')
+# plt.xticks(X)
+
+# plt.subplot(122)
+# plt.plot(
+# 	X_concat,
+# 	y_concat,
+# 	marker='*',
+# 	markersize=4,
+# 	linewidth=0.75,
+# )
+# plt.title('Prediction of Immigrants by Region')
+# plt.xticks(X_concat)
+# plt.legend(df.Regions, bbox_to_anchor=(1, 1))
+
+# plt.show()
+
+
+plt.figure('A1_2_Immigration_Data_Area')
 plt.style.use('ggplot')
 
 plt.subplot(121)
-plt.plot(
+plt.stackplot(
 	X,
-	y,
-	marker='o',
-	markersize=4,
-	linewidth=0.75,
+	df.iloc[:,1:],
 )
 plt.title('Immigrants by Region')
 plt.xticks(X)
+plt.legend(df.Regions, loc='lower left',)
 
 plt.subplot(122)
-plt.plot(
+plt.stackplot(
 	X_concat,
-	y_concat,
-	marker='*',
-	markersize=4,
-	linewidth=0.75,
+	df_concat,
 )
 plt.title('Prediction of Immigrants by Region')
 plt.xticks(X_concat)
-plt.legend(df.Regions, bbox_to_anchor=(1, 1))
+plt.legend(df.Regions, loc='lower left',)
 
 plt.show()
-plt.clf()
