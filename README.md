@@ -53,9 +53,9 @@ A1_2_machine_learning.py, resulting csv, PNG:
 
 2_A1_immigrants_by_region_regr_process.csv
 
-
-![](A1_2_Immigration_Data.png)
+![](A1_2_Immigration_Data_Area.png)
 ![](A1_2_Immigration_Data_Report.png)
+![](A1_2_Immigration_Data.png)
 # ======================================
 B1. Prediction of Immigration by Nationality from Each Region/sub-continent
 B1_1_data_transform_Labelling.py, resulting CSV:
