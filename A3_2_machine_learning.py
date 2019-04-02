@@ -41,6 +41,8 @@ y_pred = f(y_pred)
 # print(y_pred)
 # print(y_pred.shape)	# (3, 20)
 
+print('Model Score: ', model.score(X_train, y_train) * 100, '%')
+
 # =============================================
 # 3. Export to csv, excel, json
 # =============================================

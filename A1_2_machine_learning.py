@@ -34,6 +34,9 @@ X_test = np.arange(2015, 2020, 1).reshape(-1, 1)
 y_pred = model.predict(X_test).round(2)
 # print(y_pred)
 
+print('Model Score: ', model.score(X_train, y_train) * 100, '%')
+
+
 # =============================================
 # 3. Export to csv, excel, json
 # =============================================

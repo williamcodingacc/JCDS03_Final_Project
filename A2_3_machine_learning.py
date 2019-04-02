@@ -40,6 +40,7 @@ y_pred = model.predict(X_test).round(2)
 f=lambda a: (abs(a)+a)/2
 y_pred = f(y_pred)
 
+print('Model Score: ', model.score(X_train, y_train) * 100, '%')
 
 # =============================================
 # 3. Export to csv, excel, json
