@@ -5,7 +5,9 @@ Expatrait Living in the City of Barcelona
 Opportunity Analysis for Expatriats living in Barcelona, three part of Analysis is done:
 
 A1. Prediction of Immigration by Nationality and Region/sub-continent
+
 A2. Immigration vs Emigration by Age Range
+
 A3. Prediction of Unemployment by District and Gender
 
 Data Source:
@@ -17,7 +19,9 @@ A3: https://opendata-ajuntament.barcelona.cat/data/en/dataset/est-atur-sexe
 
 Original Datasets:
 0_A1_immigrants_by_nationality.csv
+
 0_A2_immigrants_emigrants_by_age.csv
+
 0_A3_unemployment.csv
 
 # ======================================
